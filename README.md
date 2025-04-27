@@ -44,14 +44,14 @@ No dependencies required - just Python 3.6+!
 
 ### Basic Commands
 
-| Command   | Syntax            | Description                     |
-|-----------|-------------------|---------------------------------|
-| SET       | `SET <key> <value>` | Stores key-value pair           |
-| GET       | `GET <key>`        | Retrieves value or `NULL`       |
-| UNSET     | `UNSET <key>`      | Deletes key                     |
-| COUNTS    | `COUNTS <value>`   | Counts keys with value          |
-| FIND      | `FIND <value>`     | Finds keys with value           |
-| END       | `END`              | Exits application               |
+| Command   | Syntax              | Description                     |
+|-----------|---------------------|---------------------------------|
+| SET       | `SET <key>:<value>` | Stores key-value pair           |
+| GET       | `GET <key>`         | Retrieves value or `NULL`       |
+| UNSET     | `UNSET <key>`       | Deletes key                     |
+| COUNTS    | `COUNTS <value>`    | Counts keys with value          |
+| FIND      | `FIND <value>`      | Finds keys with value           |
+| END       | `END`               | Exits application               |
 
 ### Transaction Commands
 
