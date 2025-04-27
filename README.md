@@ -36,7 +36,7 @@ A lightweight in-memory key-value database with transaction support, written in 
 
 ```bash
 git clone git@github.com:RiRinat/Test_DrWeb.git
-cd kv-store
+cd Test_DrWeb
 
 No dependencies required - just Python 3.6+!
 ```
