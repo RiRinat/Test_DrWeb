@@ -1,6 +1,6 @@
 import sys
 from collections import defaultdict
-from typing import List, Dict, Set, Tuple, Optional
+from typing import Dict, List, Optional, Set, Tuple
 
 from src.logs import TransactionLogger
 

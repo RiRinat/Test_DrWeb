@@ -1,5 +1,6 @@
 from typing import List
 
+
 class TransactionLogger:
     """Логирует изменения внутри транзакции."""
     def __init__(self):

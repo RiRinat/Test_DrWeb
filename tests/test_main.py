@@ -1,5 +1,7 @@
 import pytest
+
 from src.kvstore import KVStore
+
 
 @pytest.fixture
 def store():
